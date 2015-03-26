@@ -1,4 +1,4 @@
-# Yandex Selenium
+# KAYAK
 
 Test Kayak site
 
